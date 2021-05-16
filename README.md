@@ -2,7 +2,7 @@
 
 ## 전 IT 개발자를 꿈꾸는 JcwKr이라고 합니다!😄
 
-## 전 주로 Python, JS를 다루고 있으며,
+# 전 주로 Python, JS를 다루고 있으며,
 # 제가 할수 있는건
 💬 스크립트 : Python, JS
 💬 웹 : HTML, CSS, PHP
